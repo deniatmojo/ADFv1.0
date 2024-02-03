@@ -8,7 +8,7 @@
 ! Pembuat     : Deni Atmojo
 ! Versi       : 1.0
 ! Tanggal     : [3 Februari 2024]
-! Ini adalah file di lokal intel core i5
+! Ini adalah file di lokal AMD Ryzen
 !=======================================================================
 program ADF
 	! Disini perlu deskripsi variable yang digunakan
