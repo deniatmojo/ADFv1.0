@@ -8,14 +8,12 @@
 ! Pembuat     : Deni Atmojo
 ! Versi       : 1.0
 ! Tanggal     : [3 Februari 2024]
-! Ini adalah file di lokal-Intel corei5
+! Ini adalah file di lokal intel core i5
 !=======================================================================
 program ADF
-    implicit none
-    character(len=100) :: nama_lengkap, file_name
-    integer :: ios
-    character(len=100) :: dummy_line
-    
+	! Disini perlu deskripsi variable yang digunakan
+ 
+   
     ! Header Program Exe
     print *, '======================================================================='
     print *, 'Program     = ADF - Analisis Ducted Fan'
@@ -30,3 +28,8 @@ program ADF
     print *, ''
     print *, ''
     print *, ''
+
+
+
+
+end program ADF
